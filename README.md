@@ -13,3 +13,4 @@ Directions:
 <li>Compress html and images into a zip file.<li> 
 </ol>
 <strong>IMPORTANT:</strong> The final size of of your zip file should be no larger than 160kb.
+
