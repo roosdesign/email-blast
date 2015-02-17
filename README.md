@@ -7,9 +7,9 @@ It is due 2/23 before class – no exceptions.
 Directions:
 <ul>
 <li>1. Create an image folder inside of “Your-Advantage” root directory</li>
-2. Output your images from comp.psd into “images” folder
-3. Make sure image sources in index.html link correctly and properly render images in browser
-4. Test in Chrome
-5. Compress html and images into a zip file. 
+<li>2. Output your images from comp.psd into “images” folder<li>
+<li>3. Make sure image sources in index.html link correctly and properly render images in browser<li>
+<li>4. Test in Chrome<li>
+<li>5. Compress html and images into a zip file.<li> 
 </ul>
-IMPORTANT: The final size of of your zip file should be no larger than 160kb.
+<strong>IMPORTANT:</strong> The final size of of your zip file should be no larger than 160kb.
